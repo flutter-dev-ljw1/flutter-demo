@@ -17,9 +17,6 @@
 ==============================================
 
 2025/09/06
-小复习，豆包出题练手：
-<img width="1440" height="3120" alt="2025-09-06container和text练习1" src="https://github.com/user-attachments/assets/4e5bc0c7-200f-4a25-ad4d-c147114400dd" />
-
 
 上手：container和Text综合
 实现一个卡片组件，包含以下元素：
@@ -29,10 +26,10 @@
 标题："Flutter 组件"，20 号黑色粗体
 内容："这是一个练习卡片组件的示例文本"，16 号灰色，最多显示 2 行
 整体外边距 16 像素，内部各元素间距 8 像素
-<img width="1440" height="3120" alt="2025-09-06container和text练习2" src="https://github.com/user-attachments/assets/536beebd-0b75-41ed-aa36-f3b8c13e8952" />
 
 扩展：
-实现多个卡片：SingleChildScrollView+column+给 MyCard 组件添加参数，通过传递不同参数来展示不同内容
-<img width="1440" height="3120" alt="2025-09-06container和text练习3" src="https://github.com/user-attachments/assets/167b5e9a-20ba-4898-b5d3-dea2d30e0fe4" />
+实现多个卡片带有加载本地图片：SingleChildScrollView+column+给 MyCard 组件添加参数，通过传递不同参数来展示不同内容
+<img width="720" height="1280" alt="2025-09-07-002" src="https://github.com/user-attachments/assets/c48114c5-f372-43c8-9227-09d8fca68d96" />
+
 
 ========================
