@@ -1,4 +1,7 @@
 # flutter-demo
 进行flutter
 
-![Uploading 2025-09-06container和text练习3-多张卡片.png…]()
+1.container
+2.text
+3.Image和Icon listview和gridview
+4.线性布局row和column，弹性布局flex布局和expanded容器
